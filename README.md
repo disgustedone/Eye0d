@@ -1,3 +1,3 @@
 # EyeG0d
-stqrt with python
+start with python
 have fun^^
